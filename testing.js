@@ -13,3 +13,6 @@ console.log(square(9))
 
 console.log('try new one')
 console.log(square(4))
+
+console.log('try new seocnd')
+console.log(square(5))
