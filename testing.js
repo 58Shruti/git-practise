@@ -8,4 +8,5 @@ console.log(square(n))
 
 console.log('hiii')
 
-console.log('pick me')
+console.log('pick me -------------lkjlkfvb')
+console.log(square(9))
