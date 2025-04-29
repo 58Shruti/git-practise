@@ -10,3 +10,6 @@ console.log('hiii')
 
 console.log('pick me -------------lkjlkfvb')
 console.log(square(9))
+
+console.log('try new one')
+console.log(square(4))
