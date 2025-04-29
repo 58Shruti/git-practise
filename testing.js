@@ -7,3 +7,5 @@ function square(n) {
 console.log(square(n))
 
 console.log('hiii')
+
+console.log('pick me')
